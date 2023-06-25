@@ -1,14 +1,16 @@
 import React from "react";
 import { SafeAreaView, Text, View } from "react-native";
-import styles from "../Title/style";
+import styles from "./styles";
 
-const Title = (props) => {
+const Title = ({text, style}) => {
  return (
     <SafeAreaView>
       <View>
-        <Text style={styles.title}>{props.text}</Text>
+        <Text style={[styles.title, style]}>{text}</Text>
       </View>
     </SafeAreaView>
+
+    
  )
 }
 

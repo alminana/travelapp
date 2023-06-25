@@ -1,0 +1,8 @@
+https://github.com/elinahov?tab=repositories
+https://www.figma.com/file/S54PYcXnf9pYudXRDD9Xpo/React-Native-Course?type=design&node-id=3-3&t=FW5uYxyJUOZHvrtc-0
+https://github.com/elinahov/travelapp/blob/feature/main-screens/src/data/attractions.json
+https://github.com/react-native-maps/react-native-maps/blob/master/docs/installation.md
+
+To use Console log
+console.log('jsonData :>> ', jsonData);
+    console.log('item :>>' ,item);
